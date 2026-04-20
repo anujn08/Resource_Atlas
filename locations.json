@@ -1,0 +1,74 @@
+[
+  {
+    "name":"Omkareshwar Temple Ukhimath",
+    "latitude":30.51862253,
+    "longitude":79.0954182,
+    "type":"temple"
+  },
+  {
+    "name":"PHC Ukhimath (Primary Health Center)",
+    "latitude":30.51891384,
+    "longitude":79.09436899,
+    "type":"hospital"
+  },
+  {
+    "name":"Government Inter College Ukhimath",
+    "latitude":30.51709348,
+    "longitude":79.09477115,
+    "type":"school"
+  },
+  {
+    "name":"Ukhimath Market Area",
+    "latitude":30.51425925,
+    "longitude":79.09560331,
+    "type":"market"
+  },
+  {
+    "name":"Police Station Ukhimath",
+    "latitude":30.51220276,
+    "longitude":79.09283938,
+    "type":"police"
+  },
+  {
+    "name":"Tourist Rest House Ukhimath",
+    "latitude":30.51382273,
+    "longitude":79.09549183,
+    "type":"hotel"
+  },
+  {
+    "name":"Public Toilet Ukhimath Parking",
+    "latitude":30.51394734,
+    "longitude":79.09555216,
+    "type":"toilet"
+  },
+  {
+    "name":"Deoria Tal Lake",
+    "latitude":30.52193171,
+    "longitude":79.12776787,
+    "type":"tourism"
+  },
+  {
+    "name":"Chopta (Mini Switzerland)",
+    "latitude":30.48518408,
+    "longitude":79.20060729,
+    "type":"tourism"
+  },
+  {
+    "name":"Kalimath Temple",
+    "latitude":30.56199481,
+    "longitude":79.084498,
+    "type":"temple"
+  },
+  {
+    "name":"Guptkashi Hospital",
+    "latitude":30.5286891,
+    "longitude":79.08289481,
+    "type":"hospital"
+  },
+  {
+    "name":"Tehsil_ukhimath",
+    "latitude":30.51255406,
+    "longitude":79.09341727,
+    "type":"office"
+  }
+]
